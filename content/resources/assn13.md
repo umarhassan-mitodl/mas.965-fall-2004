@@ -4,6 +4,8 @@ description: Instructions for final project papers and presentations.
 file: /courses/mas-965-social-visualization-fall-2004/74e5c010b07566a8283fad9f4510423e_assn13.pdf
 file_size: 9673
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
