@@ -4,8 +4,6 @@ description: Guidelines and instructions for preparing a final project proposal.
 file: /courses/mas-965-social-visualization-fall-2004/22b0453cab3de9e46990d4aafc917b77_assn9.pdf
 file_size: 14513
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

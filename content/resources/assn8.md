@@ -4,8 +4,6 @@ description: Essay and diagramming assignment instructions.
 file: /courses/mas-965-social-visualization-fall-2004/6e35de3a28010afd21a9ce5f332c12e0_assn8.pdf
 file_size: 16984
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

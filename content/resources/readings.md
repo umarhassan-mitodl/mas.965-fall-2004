@@ -4,8 +4,6 @@ description: Readings and other resources on social visualization.
 file: /courses/mas-965-social-visualization-fall-2004/e97e874d290e927d9ab403adabd4df8a_readings.pdf
 file_size: 101635
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
